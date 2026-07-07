@@ -1,6 +1,7 @@
 ### Hello world
 
 - I'm Tung
+- My CV is online at https://tungtengg.netlify.app/cv/
 
 <!--
 **tung-eh/tung-eh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
